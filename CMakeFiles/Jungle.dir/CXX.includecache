@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/amin/Documents/ap/jungle/Jungle/Animal.h
+
+/home/amin/Documents/ap/jungle/Jungle/DomesticAnimal.h
+Animal.h
+/home/amin/Documents/ap/jungle/Jungle/Animal.h
+
+/home/amin/Documents/ap/jungle/Jungle/Jungle.h
+Animal.h
+/home/amin/Documents/ap/jungle/Jungle/Animal.h
+
+/home/amin/Documents/ap/jungle/Jungle/Pet.h
+Animal.h
+/home/amin/Documents/ap/jungle/Jungle/Animal.h
+
+/home/amin/Documents/ap/jungle/Jungle/WildAnimal.h
+Animal.h
+/home/amin/Documents/ap/jungle/Jungle/Animal.h
+
+/home/amin/Documents/ap/jungle/Jungle/main.cpp
+iostream
+-
+Jungle.h
+/home/amin/Documents/ap/jungle/Jungle/Jungle.h
+WildAnimal.h
+/home/amin/Documents/ap/jungle/Jungle/WildAnimal.h
+DomesticAnimal.h
+/home/amin/Documents/ap/jungle/Jungle/DomesticAnimal.h
+Pet.h
+/home/amin/Documents/ap/jungle/Jungle/Pet.h
+
